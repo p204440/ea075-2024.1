@@ -4,7 +4,7 @@ Este documento apresenta uma listagem detalhada dos componentes utilizados em um
 
 ## ESP32-S3-MINI-1
 
-![Figura 1: ESP32-S3-MINI-1](link_da_imagem)
+![Figura 1: ESP32-S3-MINI-1](![image](https://github.com/p204440/ea075-2024.1/assets/163479186/bf822064-9035-4721-8078-0f3b3e878d52))
 
 **Descrição:** Módulo de tamanho reduzido que suporta Wi-Fi de 2,4 GHz (802.11 b/g/n) e Bluetooth 5 (LE), construído em torno da série ESP32-S3 de SoCs, com microprocessador Xtensa® dual-core de 32 bits LX7.
 
@@ -13,7 +13,7 @@ Este documento apresenta uma listagem detalhada dos componentes utilizados em um
 
 ## ADXL363
 
-![Figura 2: ADXL363](link_da_imagem)
+![Figura 2: ADXL363](![image](https://github.com/p204440/ea075-2024.1/assets/163479186/6730b8b9-13d2-4cf6-b4d0-aae1737fb4b2))
 
 **Descrição:** Acelerômetro de ultra baixa potência, 3 eixos, com corrente de operação extremamente baixa (170 nA em modo de repouso).
 
@@ -22,7 +22,7 @@ Este documento apresenta uma listagem detalhada dos componentes utilizados em um
 
 ## Quectel L80-R
 
-![Figura 3: Quectel L80-R](link_da_imagem)
+![Figura 3: Quectel L80-R](![image](https://github.com/p204440/ea075-2024.1/assets/163479186/dea7e852-e0f0-40df-85c5-907d55580658))
 
 **Descrição:** Módulo GPS com antena patch embutida de 15x15x4mm e LNA, trazendo alta performance do motor de posicionamento MTK para aplicações industriais.
 
@@ -31,7 +31,7 @@ Este documento apresenta uma listagem detalhada dos componentes utilizados em um
 
 ## SIM800C
 
-![Figura 4: SIM800C](link_da_imagem)
+![Figura 4: SIM800C](![image](https://github.com/p204440/ea075-2024.1/assets/163479186/9b8be9b4-6812-43cb-9d25-f37e204b6fc6))
 
 **Descrição:** Módulo GSM/GPRS quad-band que oferece capacidades de transmissão de dados, SMS e voz em um pacote compacto.
 
