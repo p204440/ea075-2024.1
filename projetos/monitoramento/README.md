@@ -135,6 +135,9 @@ Servidor e Interface Web/Móvel:
 > ![image](https://github.com/p204440/ea075-2024.1/assets/163479186/6372d601-a9d8-4450-a82e-f99dd43ebac8)
 
 > Assíncrona:
+
+
+
 >![image](https://github.com/p204440/ea075-2024.1/assets/163479186/d32eee30-4dc5-44af-b710-cc861c97885c)
 
 >Sendo tambem realizado o fluxograma sobre as comunicações internas entre os componentes. O sistema central será conectado via rede 4G ao sistema, motivo pelo qual não foi representado no fluxograma.
